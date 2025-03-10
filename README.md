@@ -1,1 +1,3 @@
-# noughts-and-crosses-with-alpha-beta-pruning_202401100400098
+Problem Statement:
+
+Noughts and Crosses, also known as Tic-Tac-Toe, is a classic 2-player game where players alternate marking 'X' and 'O' on a 3x3 grid. The objective is to align three marks in a row, column, or diagonal. In this project, both players (Player X and Player O) play optimally using the Minimax algorithm, which explores all possible moves and selects the best option. The Alpha-Beta Pruning optimization is applied to improve the efficiency of the Minimax algorithm by pruning unnecessary branches, reducing the number of states the algorithm needs to evaluate, and speeding up decision-making. The game ends when one player wins or when the board is full and results in a draw.
